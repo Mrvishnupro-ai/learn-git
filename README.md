@@ -16,18 +16,6 @@ This is a beginner-friendly guide to understanding version control using Git and
 
 ---
 
-## 📂 Project Structure
-
-learn-git/
-├── README.md
-├── basic-commands.md
-├── .gitignore
-├── sample-project/
-│ └── hello-world.txt
-
-
----
-
 ## 🔧 Prerequisites
 
 - Git installed → [Download Git](https://git-scm.com/downloads)
